@@ -15,7 +15,7 @@ function onYouTubePlayerAPIReady() {
 function onPlayerReady(event) {
     // Autoplay. I hesitated to even include this. 
     // This is cursed code. Abandon all hope, ye who enter here...
-    // // // // // // event.target.playVideo();
+    // event.target.playVideo();
 }
 
 // Called when video finishes playing

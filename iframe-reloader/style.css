@@ -1,5 +1,6 @@
 .ytp-pause-overlay {
   display: none;
+
 }
 
 #bg-underlay {
@@ -8,4 +9,5 @@
   background-color: black;
   position: fixed;
   z-index: -1;
+  
 }
