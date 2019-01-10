@@ -1,0 +1,11 @@
+.ytp-pause-overlay {
+  display: none;
+}
+
+#bg-underlay {
+  width: 640px;
+  height: 390px;
+  background-color: black;
+  position: fixed;
+  z-index: -1;
+}
